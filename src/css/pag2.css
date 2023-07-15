@@ -1,0 +1,147 @@
+body {
+
+    background-color: #fafafa;
+
+}
+
+header {
+
+    border: 1px solid #d3d3d3;
+}
+
+.logo {
+
+    height: 30px;
+    margin: 17px 20px 8px 485px;
+}
+
+main {
+
+    background-color: #fafafa;
+    width: 100vw;
+    height: 80vh;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.info {
+
+    border: 1px solid #d3d3d3;
+    display: block;
+    flex-direction: column;
+    width: 300px;
+    height: 500px;
+    padding: 40px;
+    text-align: center;
+    margin: 0;
+
+}
+
+.cadeado {
+
+    width: 90px;
+    margin-bottom: 20px;
+
+}
+
+h1 {
+
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.insira {
+
+    font-size: 13px;
+    color: #808080;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+}
+
+.email {
+
+    margin-top: 15px;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: bold;
+    width: 270px;
+    padding: 10px;
+    border-radius: 7px;
+    border: none;
+    border: 1px solid #d3d3d3;
+    color: #D3D3D3;
+}
+
+.enviar {
+
+    background-color: #41B5F2;
+    font-size: 13px;
+    width: 290px;
+    border-radius: 7px;
+    border: none;
+    color: #ffffff;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    cursor: pointer;
+    padding: 10px;
+
+}
+
+.redefinir-senha {
+
+    text-decoration: none;
+    font-size: 12px;
+    color: #385185;
+
+}
+
+.text {
+
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    font-size: 12px;
+    color: #696969;
+    font-weight: bold;
+}
+
+.criar-conta {
+
+    text-decoration: none;
+    color: black;
+    margin-top: 15px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.caixa-baixo {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    bottom: -90px;
+    right: 41px;
+    text-decoration: none;
+    color: #385185;
+    border: 1px solid #d3d3d3;
+    padding: 15px;
+    width: 350px;
+    margin: 0;
+
+
+}
+
+.voltar {
+
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    font-weight: bold;
+
+
+}
